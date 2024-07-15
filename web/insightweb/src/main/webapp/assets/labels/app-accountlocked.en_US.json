@@ -4,6 +4,7 @@
         "clickHereText": "reset your password",
         "passwordAssistanceText": "Password Assistance",
         "accountLockedMessage2": "or contact your Insight representative for assistance.",
-        "pageTitle": "Account Locked"
+        "pageTitle": "Account Locked",
+         "new_key_pooja": "THis is my key -Pooja"
     }
 }

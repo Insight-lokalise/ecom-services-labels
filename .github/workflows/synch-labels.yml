@@ -37,7 +37,8 @@ jobs:
              rm -Rf ecom-services/$label_path/labels
             fi
             mkdir -p ecom-services/$label_path/labels
-           cp -R  $label_path/src/assets/labels ecom-services/$label_path/
+            echo "i am herE"
+           cp -R  $label_path/labels ecom-services/$label_path/
           done
           cd label_path
           git remote set-url origin https://${{ secrets.WEB_TO_LOKALISE }}@github.com/Insight-IT-Web/ecom-services.git

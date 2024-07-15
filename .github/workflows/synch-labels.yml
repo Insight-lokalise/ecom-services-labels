@@ -40,7 +40,7 @@ jobs:
             echo "i am herE"
            cp -R  $label_path/labels ecom-services/$label_path/
           done
-          cd label_path
+          cd ecom-services
           git remote set-url origin https://${{ secrets.WEB_TO_LOKALISE }}@github.com/Insight-IT-Web/ecom-services.git
           git config --global user.email "pjetly@insight.com"
           git config --global user.name "Pooja jetly"

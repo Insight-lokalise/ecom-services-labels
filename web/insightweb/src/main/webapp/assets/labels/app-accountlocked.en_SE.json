@@ -4,6 +4,7 @@
         "clickHereText": "",
         "passwordAssistanceText": "",
         "accountLockedMessage2": "",
-        "pageTitle": "Account Locked"
+        "pageTitle": "Account Locked",
+        "new_key_pooja": ""
     }
 }

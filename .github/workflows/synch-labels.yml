@@ -1,19 +1,16 @@
 name: Synchronize Ecom-services Labels
 on:
-  #pull_request:
-  # types:
-  #  - synchronize
-  # - closed
-  push:
-    branches:
-      - lokalise
+  pull_request:
+   types:
+    - synchronize
+    - closed
 env:
   label_paths: ("web/insightweb/src/main/webapp/assets")
 
 jobs:
   Synchronize-labels:
     name: Synchronize
-    #if: github.event.pull_request.merged == true
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

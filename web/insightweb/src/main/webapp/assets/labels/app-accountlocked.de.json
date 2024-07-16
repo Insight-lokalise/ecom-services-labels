@@ -1,9 +1,9 @@
 {
     "labels": {
-        "accountLockedMessage1": "",
-        "clickHereText": "",
-        "passwordAssistanceText": "",
-        "accountLockedMessage2": "",
+        "accountLockedMessage1": "12 11Ihr Konto ist aufgrund mehrerer fehlgeschlagener Anmeldeversuche gesperrt. Bitte",
+        "clickHereText": "Setze dein Passwort zurück",
+        "passwordAssistanceText": "Passwort-Hilfe",
+        "accountLockedMessage2": "oder wenden Sie sich für Unterstützung an Ihren Insight-Vertreter.",
         "pageTitle": "Kontowerkzeuge",
         "new_key_pooja": "Das ist mein Schlüssel -Pooja-test1"
     }

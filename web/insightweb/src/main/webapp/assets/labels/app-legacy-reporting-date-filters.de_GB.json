@@ -1,1 +1,9 @@
-{"labels":{"filterByDate":"Nach Datumsbereich filtern:","scheduleOpts":"Bericht zur Ausführung einplanen:","endDate":"Enddatum:","quickDate":"Schneller Termin:","startDate":"Startdatum:"}}
+{
+    "labels": {
+        "filterByDate": "Nach Datumsbereich filtern:",
+        "scheduleOpts": "Bericht zur Ausführung einplanen:",
+        "endDate": "Enddatum:",
+        "quickDate": "Schneller Termin:",
+        "startDate": "Startdatum:"
+    }
+}

@@ -1,1 +1,20 @@
-{"labels":{"prop65-rule-0001":"<b>WARNING:<\/b> This product may expose you to chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.For more information go to <a href=\\\"https://www.p65warnings.ca.gov/\\\" target=\\\"blank\\\">P65Warnings.ca.gov<\/a>.","drools-rule-0009":"The Exchange Plus SAL grants the right of an Outlook client. If the outlook client in Office is used, there might be overcompliance","drools-rule-0008":"SAL for SA can only be used when the end user has purchased perpetual CAL's with active SA","drools-rule-0007":"Sharepoint always requires Windows Server and SQL Server licenses","drools-rule-0006":"CRM, 365, AX, GP, NAV and SL always requires Windows Server and SQL Server licenses","drools-rule-0005":"Verify if the partner monitors desktops/laptops and not servers as this is a SAL for managing desktop/laptops only","drools-rule-0004":"Sharepoint Enterprise SAL is an additive SAL and always requires the Sharepoint Standard SAL","drools-rule-0015":"The minimum of cores per processor to be licensed is 8","drools-rule-0003":"Verify if SQL SAL's are used per unique individual and not per application (multiplexing)","drools-rule-0014":"The minimum of cores per processor to be licensed is 8","drools-rule-0002":"Office MLP is an additive product and can therefore not exceed the quantity reported on Office applications","drools-rule-0013":"When a partner reports a combination of these products the Productivity Suite may be a better option","drools-rule-0001":"Reported quantity RDS SAL's are not in line with applications SAL's (Office, Project, Visio, etc)","drools-rule-0012":"The minimum of cores per processor to be licensed is 4; BizTalk requires SQL Server. No SQL software has been reported in this order.","drools-rule-0011":"Cloud Platform Suite consists of a Host and Guest VM license, check if partner has no Microsoft VM's running on this server","drools-rule-0010":"The minimum of SQL Server cores per server to be licensed is 4"}}
+{
+  "labels": {
+    "prop65-rule-0001": "<b>WARNING:</b> This product may expose you to chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.For more information go to <a href=\"https://www.p65warnings.ca.gov/\">P65Warnings.ca.gov</a>.",
+    "drools-rule-0009": "The Exchange Plus SAL grants the right of an Outlook client. If the outlook client in Office is used, there might be overcompliance",
+    "drools-rule-0008": "SAL for SA can only be used when the end user has purchased perpetual CAL's with active SA",
+    "drools-rule-0007": "Sharepoint always requires Windows Server and SQL Server licenses",
+    "drools-rule-0006": "CRM, 365, AX, GP, NAV and SL always requires Windows Server and SQL Server licenses",
+    "drools-rule-0005": "Verify if the partner monitors desktops/laptops and not servers as this is a SAL for managing desktop/laptops only",
+    "drools-rule-0004": "Sharepoint Enterprise SAL is an additive SAL and always requires the Sharepoint Standard SAL",
+    "drools-rule-0015": "The minimum of cores per processor to be licensed is 8",
+    "drools-rule-0003": "Verify if SQL SAL's are used per unique individual and not per application (multiplexing)",
+    "drools-rule-0014": "The minimum of cores per processor to be licensed is 8",
+    "drools-rule-0002": "Office MLP is an additive product and can therefore not exceed the quantity reported on Office applications",
+    "drools-rule-0013": "When a partner reports a combination of these products the Productivity Suite may be a better option",
+    "drools-rule-0001": "Reported quantity RDS SAL's are not in line with applications SAL's (Office, Project, Visio, etc)",
+    "drools-rule-0012": "The minimum of cores per processor to be licensed is 4; BizTalk requires SQL Server. No SQL software has been reported in this order.",
+    "drools-rule-0011": "Cloud Platform Suite consists of a Host and Guest VM license, check if partner has no Microsoft VM's running on this server",
+    "drools-rule-0010": "The minimum of SQL Server cores per server to be licensed is 4"
+  }
+}

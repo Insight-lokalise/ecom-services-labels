@@ -412,6 +412,8 @@
     "defaultProcCard": "Default Procurement Card:",
     "keywordSuggestionsWarning": "Some keyword suggestions may provide no results while searching under limited catalogs.",
     "existingFavoriteEditText": "Select an existing Favorite to edit",
-    "downloadableFilesHeading": "Below are your downloadable files."
+    "downloadableFilesHeading": "Below are your downloadable files.",
+    "AccountsPayable": "",
+    "ShowRatings": ""
   }
 }

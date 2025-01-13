@@ -629,6 +629,9 @@
     "termsInfo": "",
     "Carrier provider": "Carrier provider",
     "Our team will be in touch within 48 business hours": "Our team will be in touch within 48 business hours",
-    "to assist you in activating your device(s).": "to assist you in activating your device(s)."
+    "to assist you in activating your device(s).": "to assist you in activating your device(s).",
+    "An order containing one or more products requiring activation has been placed. The order details are included below for your reference:": "An order containing one or more products requiring activation has been placed. The order details are included below for your reference:",
+    "Hello Activation Team,": "Hello Activation Team,",
+    "Order Requiring Activation": "Order Requiring Activation"
   }
 }

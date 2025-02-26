@@ -174,6 +174,7 @@
     "webinars": "Webinars </span>- Enabling Webinars will display the Resource menu in the top and bottom nav. It will also display the webinars link within Account Tools. Webinars are FREE on-line informational presentations sponsored by manufacturers.",
     "suppressShippingEstimateInCart": "Suppress Shipping Estimate in Cart</span> - This permission will hide the shipping estimate in the cart. Shipping estimate will still display on the subsequent order processing pages.",
     "enableRenewalsHub": "Enable Renewals Hub </span> - Allows users access to the Renewals Hub platform provided they have the required permissions set on the hub. Enabling this permission removes the Renewals and Warranty Manager link and replaces with Renewals Hub.",
-    "personalProductCenter": ""
+    "personalProductCenter": "",
+    "suppressCellularActivations": "Suppress Cellular Activations</span> - Disables the option to activate new eligible cellular devices on plans from carrier providers such as Verizon, AT&T, and T-Mobile (US), as well as Bell and Rogers (Canada)."
   }
 }

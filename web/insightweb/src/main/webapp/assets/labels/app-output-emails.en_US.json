@@ -636,11 +636,12 @@
     "An order containing one or more products requiring activation has been placed.": "An order containing one or more products requiring activation has been placed.",
     "Please find the order receipt attached for your reference.": "Please find the order receipt attached for your reference.",
     "The order details are included below for your reference:": "The order details are included below for your reference:",
-    "csCostExpiredPartsContent1": "Thank you for being a valued insight.com client. Unfortunately, the following item(s) in your Company Standards list are expiring soon. We recommend replacing the item(s) with current comparable products or simply update the expiry date. Contact your Insight representative for more information or assistance.",
+    "csCostExpiredPartsContent1": "Thank you for being a valued insight.com client. The following item(s) in your Company Standards list are going to expire within 5 days or have already expired. We recommend working with your sales team to get the catalog updated.  Your Insight team can replace discontinued SKUs with updated parts, or if parts are still valid, they can have the product availability dates extended. Please engage your Insight representative for next steps.",
     "csMisconfiguredPartsContent1": "Thank you for being a valued insight.com client. We're reaching out to proactively address a potential issue you might encounter while ordering items from your Company Standards list on Insight Web. There are some item(s) in your Company Standards list which are active on Insight Web, but you can't currently purchase them because either the price isn't visible or the buy button isn't showing. We recommend to contact your insight representative for more information or assistance.",
     "csDiscontinuedContent9": "Expiry Date",
     "csDiscontinuedContent10": "Days To Expire",
     "daysUntilExpiry": "Days Until Expiry",
-    "expiryDate": "Expiry Date"
+    "expiryDate": "Expiry Date",
+    "expired": "Expired"
   }
 }

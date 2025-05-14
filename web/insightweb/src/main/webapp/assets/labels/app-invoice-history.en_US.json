@@ -197,6 +197,7 @@
     "totalPreview": "Total:",
     "invoice": "Invoice",
     "account": "Account:",
-    "invFullDate": "Invoice Date"
+    "invFullDate": "Invoice Date",
+    "Not Cleared": "Not Cleared"
   }
 }

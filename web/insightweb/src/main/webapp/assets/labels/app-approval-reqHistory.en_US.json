@@ -212,6 +212,11 @@
     "Total": "Total",
     "ShippingAddress": "Shipping Address",
     "orderCancelRequisition": "CANCEL REQUISITION",
-    "label validation": "label validation"
+    "label validation": "label validation",
+    "subscriptionTotalHeader": "Subscription Purchase Prorated",
+    "subscriptionTotal": "*Subscription Total:",
+    "oneTimeTotalHeader": "One-time Purchase",
+    "oneTimeTotal": "One-time Total:",
+    "subscription": "(Subscription)"
   }
 }

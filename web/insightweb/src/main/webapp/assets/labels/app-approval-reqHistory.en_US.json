@@ -217,6 +217,10 @@
     "subscriptionTotal": "*Subscription Total:",
     "oneTimeTotalHeader": "One-time Purchase",
     "oneTimeTotal": "One-time Total:",
-    "subscription": "(Subscription)"
+    "subscription": "(Subscription)",
+    "byClickingThisBoxTextForTnC": "By clicking this box, you hereby agree with the terms and conditions for all products.",
+    "youMustAcceptThe": "You must accept the",
+    "termsAndConditions": "terms and conditions",
+    "toContinue": "to continue."
   }
 }

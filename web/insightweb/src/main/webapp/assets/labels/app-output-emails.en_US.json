@@ -642,6 +642,7 @@
     "csDiscontinuedContent10": "Days To Expire",
     "daysUntilExpiry": "Days Until Expiry",
     "expiryDate": "Expiry Date",
-    "expired": "Expired"
+    "expired": "Expired",
+    "orderConfNoSalesRef": "Please use reference number"
   }
 }

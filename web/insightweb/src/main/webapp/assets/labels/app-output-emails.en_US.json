@@ -643,6 +643,7 @@
     "daysUntilExpiry": "Days Until Expiry",
     "expiryDate": "Expiry Date",
     "expired": "Expired",
-    "orderConfNoSalesRef": "Please use reference number"
+    "orderConfNoSalesRef": "Please use reference number",
+    "orderOneTimePurchaseText": "One Time Purchase"
   }
 }

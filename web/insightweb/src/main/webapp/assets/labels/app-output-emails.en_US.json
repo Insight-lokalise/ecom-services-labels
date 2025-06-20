@@ -644,6 +644,10 @@
     "expiryDate": "Expiry Date",
     "expired": "Expired",
     "orderConfNoSalesRef": "Please use reference number",
-    "orderOneTimePurchaseText": "One Time Purchase"
+    "orderOneTimePurchaseText": "One Time Purchase",
+    "subscription": "Subscription",
+    "subtotal": "Subtotal",
+    "taxestimate": "Tax estimate",
+    "subscriptiontotal": "*Subscription total"
   }
 }

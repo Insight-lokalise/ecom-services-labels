@@ -2,7 +2,7 @@
   "labels": {
     "orderConf152": "DEP Organization ID #:",
     "orderConf153": "SmartTracker",
-    "pstEstimate": "PST/QST Estimate",
+    "pstEstimate": "PST/ QST Estimate",
     "orderConf154": "Contract specific information",
     "orderConf155": "Diversity Partner:",
     "orderConf150": "Device Enrollment Program",
@@ -235,7 +235,7 @@
     "extNewUserContent11": "Get exclusive pricing and product catalogs.",
     "orderConf1": "My account",
     "extNewUserContent10": "Account management",
-    "gstEstimate": "GST Estimate",
+    "gstEstimate": "GST/ HST Estimate",
     "splaUsageContent1": "Thank you for participating in the Microsoft SPLA Program with Insight. Your monthly report for license usage under the program is due by the 10th. Please log in to",
     "termsConditions": "Terms and Conditions",
     "privacyPolicy": "Privacy Policy",

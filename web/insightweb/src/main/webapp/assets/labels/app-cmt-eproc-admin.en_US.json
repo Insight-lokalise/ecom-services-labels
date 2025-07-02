@@ -126,6 +126,7 @@
     "taxUNSPSCCode": "Enter Tax UNSPSC Override Code ",
     "nonStandardFieldAlert": "Select override field, check client passed field, or enter custom value for non-standard field",
     "enterTaxRateExtrinsicValue": "Enter Tax Rate Extrinsic Value",
-    "ewrDescription": "Enter EWR Fee Description"
+    "ewrDescription": "Enter EWR Fee Description",
+    "enablePunchoutLevel2": "Enable Level 2 Punchout"
   }
 }

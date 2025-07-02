@@ -154,6 +154,7 @@
     "AccountTools": "Account Tools",
     "fed_open_market_verbiage": "Display Price Verbiage As",
     "user_requires_approval_tooltip": "Please ensure that the user is also added to a requestor group to successfully complete checkout process",
-    "customer_reserved_inventory": "Enable Customer Reserved Inventory (CRI)"
+    "customer_reserved_inventory": "Enable Customer Reserved Inventory (CRI)",
+    "enable_invoice_payment": "Enable invoice payment"
   }
 }

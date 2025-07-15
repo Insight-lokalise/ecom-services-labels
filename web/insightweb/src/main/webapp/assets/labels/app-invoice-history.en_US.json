@@ -198,6 +198,7 @@
     "invoice": "Invoice",
     "account": "Account:",
     "invFullDate": "Invoice Date",
-    "Not Cleared": "Not Cleared"
+    "Not Cleared": "Not Cleared",
+    "Pay now": "Pay now"
   }
 }

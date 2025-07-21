@@ -378,7 +378,7 @@
     "INVALID_LOGIN_NAME": "Invalid Login Name",
     "dutuch": "Deutsch",
     "showingResultsForState": "Results shown for State/Province ",
-    "permissionFailedToLoadRequestorGroups": "Failed to load the requestor group. Please manually assign the user to requestor group through approval management page, after applying the permissions.",
+    "permissionFailedToLoadRequestorGroups": "Failed to load the requestor group. Please manually assign the user to a requestor group through the approval management page after applying the permissions.",
     "pleaseSelectRequestorGroup": "Please select the requestor group."
   }
 }

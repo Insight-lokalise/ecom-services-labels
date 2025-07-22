@@ -154,7 +154,7 @@
     "BillingAddress": "Billing Address",
     "networkAccessIDLink": "https://extranet.marriott.com/sdm/RequestCenter/myservices/navigate.do?query=orderform&sid=1978&",
     "cancelledReqStatus": "Cancelled Requisition",
-    "gstEstimate": "G.S.T Estimate",
+    "gstEstimate": "G.S.T/H.S.T Estimate",
     "partnerName": "Partner:",
     "deniedReq": "Denied Req",
     "pleaseComplete": ", please complete the ",

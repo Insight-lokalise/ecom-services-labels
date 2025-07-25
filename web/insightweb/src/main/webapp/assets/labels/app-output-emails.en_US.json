@@ -648,6 +648,7 @@
     "subscription": "Subscription",
     "subtotal": "Subtotal",
     "taxestimate": "Tax estimate",
-    "subscriptiontotal": "*Subscription total"
+    "subscriptiontotal": "*Subscription total",
+    "tipEstimate": "TIP"
   }
 }

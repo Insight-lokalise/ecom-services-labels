@@ -82,6 +82,7 @@
     "pricetotal": "Total Price",
     "clinNumber": "CLIN#",
     "contractspecificinfo": "Contract Specific Information",
-    "InsightPartno": "Insight Part#"
+    "InsightPartno": "Insight Part#",
+    "tipEstimate": "TIP"
   }
 }

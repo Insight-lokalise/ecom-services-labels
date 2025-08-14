@@ -51,6 +51,7 @@
     "enable_learn": "Enable menu for content & resources",
     "standardized_login": "Disable Username Change Ability",
     "suppress_cellular_activations": "Suppress Cellular Activations",
-    "enable_short_term_leasing": "Enable Short Term Leasing"
+    "enable_short_term_leasing": "Enable Short Term Leasing",
+    "display_financing_offers": "Display Financing Offers Button"
   }
 }

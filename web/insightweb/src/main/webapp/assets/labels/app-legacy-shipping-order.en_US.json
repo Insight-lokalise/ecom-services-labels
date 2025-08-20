@@ -423,6 +423,7 @@
     "noBillingAddressError": "Please enter billing address \\n",
     "noStoredCards": "No Stored Cards",
     "defaultErrorMsg": "Errors must be corrected before saving.",
-    "reviewFollowing": "Please review the following: \\n"
+    "reviewFollowing": "Please review the following: \\n",
+    "tipEstimate": "Tax on Insurance Premium:"
   }
 }

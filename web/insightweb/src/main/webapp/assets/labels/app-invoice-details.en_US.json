@@ -116,6 +116,7 @@
     "invalidEmailType": "is an invalid email",
     "invLicCoverageDates": "Coverage Dates:",
     "Clicking 'Pay Now' will redirect you to our payment portal": "Clicking 'Pay Now' will redirect you to our payment portal",
-    "Pay now": "Pay now"
+    "Pay now": "Pay now",
+    "Pay now button is not functional when using the Login as Function": "Pay now button is not functional when using the Login as Function."
   }
 }

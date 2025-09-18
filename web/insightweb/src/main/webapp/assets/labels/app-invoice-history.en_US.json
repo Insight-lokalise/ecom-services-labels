@@ -199,6 +199,7 @@
     "account": "Account:",
     "invFullDate": "Invoice Date",
     "Not Cleared": "Not Cleared",
-    "Pay now": "Pay now"
+    "Pay now": "Pay now",
+    "payNowLinkIsNotFunctional": "Pay now link is not functional when using the Login as Function."
   }
 }

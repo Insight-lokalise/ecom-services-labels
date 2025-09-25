@@ -221,6 +221,10 @@
     "byClickingThisBoxTextForTnC": "By clicking this box, you hereby agree with the terms and conditions for all products.",
     "youMustAcceptThe": "You must accept the",
     "termsAndConditions": "terms and conditions",
-    "toContinue": "to continue."
+    "toContinue": "to continue.",
+    "byClickingThisBoxTextForTnCAppleCare": "By clicking this box, you understand that AppleCare+ in Quebec is an insurance policy underwritten by AIG Insurance Company of Canada and distributed by Insight. You hereby agree with the  ",
+    "appleCareTnCLink": "AppleCare+ Terms and Conditions",
+    "appleCareConfirmText": " and confirm you've reviewed all required documents.",
+    "appleCareViewAgreement": "[View full agreement]"
   }
 }

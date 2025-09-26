@@ -177,6 +177,8 @@
     "personalProductCenter": "",
     "suppressCellularActivations": "Suppress Cellular Activations</span> - Disables the option to activate new eligible cellular devices on plans from carrier providers such as Verizon, AT&T, and T-Mobile (US), as well as Bell and Rogers (Canada).",
     "enableShortTermLeasing": "Enable Short Term Leasing </span> - Enable the display of short term leasing options in search page and PDP",
-    "displayFinancingOffers": "Display Financing Offers Button</span> - If enabled, a 'Learn more' button is viewable on product pages and search results which, if clicked, opens a modal for clients to submit an inquiry form or visit our finance and leasing page."
+    "displayFinancingOffers": "Display Financing Offers Button</span> - If enabled, a 'Learn more' button is viewable on product pages and search results which, if clicked, opens a modal for clients to submit an inquiry form or visit our finance and leasing page.",
+    "disableSearchRedirect": "Disable Search Redirects",
+    "disableSearchRedirectDesc": "Redirects search results to marketing content pages"
   }
 }

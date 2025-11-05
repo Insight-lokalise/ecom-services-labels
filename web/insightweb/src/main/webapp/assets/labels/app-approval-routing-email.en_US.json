@@ -226,6 +226,8 @@
     "goodsInfo": "",
     "publicSector": "",
     "termsInfo": "",
-    "taxOnInsurancePremium": "Tax on Insurance Premium"
+    "taxOnInsurancePremium": "Tax on Insurance Premium",
+    "signatureRequired": "Signature Required",
+    "deliveryVAS": "Delivery value added services"
   }
 }

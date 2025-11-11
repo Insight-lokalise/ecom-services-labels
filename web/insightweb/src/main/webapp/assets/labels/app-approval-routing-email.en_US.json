@@ -228,6 +228,7 @@
     "termsInfo": "",
     "taxOnInsurancePremium": "Tax on Insurance Premium",
     "signatureRequired": "Signature Required",
-    "deliveryVAS": "Delivery value added services"
+    "deliveryVAS": "Delivery value added services:",
+    "SIGNATURE REQUIRED": "Signature Required"
   }
 }

@@ -449,6 +449,9 @@
     "senderpersonalmessage": "",
     "sendtoacolleague": "",
     "yourPrice": "",
-    "tipEstimate": "Tax on Insurance Premium:"
+    "tipEstimate": "Tax on Insurance Premium:",
+    "SIGNATURE REQUIRED": "Signature Required",
+    "VASDescription": "Delivery Value Added Services (DVAS pricing estimated. For other offerings, contact your Insight representative.)",
+    "deliveryVAS": "Delivery Value Added Services"
   }
 }

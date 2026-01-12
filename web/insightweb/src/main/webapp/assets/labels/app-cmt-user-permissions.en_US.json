@@ -156,6 +156,7 @@
     "user_requires_approval_tooltip": "Please ensure that the user is also added to a requestor group to successfully complete checkout process",
     "customer_reserved_inventory": "Enable Customer Reserved Inventory (CRI)",
     "enable_invoice_payment": "Enable invoice payment",
-    "disable_search_redirects": "Disable Search Redirects"
+    "disable_search_redirects": "Disable Search Redirects",
+    "enable_inbound_coi": "Enable Inbound COI (Customer Inbound Inventory)"
   }
 }

@@ -101,6 +101,7 @@
     "BacktoQuoteSearch": "Back to Quote Search",
     "glossQuoUnitPrice1": "- Price quoted for a single quantity of the individual line item.",
     "delQuoDetail": "Delete this Quote",
-    "contactSepcificInfo ": ""
+    "contactSepcificInfo ": "",
+    "taxOnInsurancePremium": "Tax on Insurance Premium:"
   }
 }

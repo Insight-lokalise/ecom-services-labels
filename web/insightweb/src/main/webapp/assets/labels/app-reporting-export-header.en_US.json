@@ -172,6 +172,7 @@
     "servicerep": "Service Rep",
     "softwarecategory": "Software Category",
     "maintenance": "Maintenance",
-    "invoicedate": "Invoice Date"
+    "invoicedate": "Invoice Date",
+    "tiptax": "Tax on Insurance Premium"
   }
 }

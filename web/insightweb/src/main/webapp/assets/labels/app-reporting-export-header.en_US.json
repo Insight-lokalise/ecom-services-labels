@@ -173,6 +173,7 @@
     "softwarecategory": "Software Category",
     "maintenance": "Maintenance",
     "invoicedate": "Invoice Date",
-    "tiptax": "Tax on Insurance Premium"
+    "tiptax": "Tax on Insurance Premium",
+    "taxOnInsurancePremium": "Tax on Insurance Premium"
   }
 }

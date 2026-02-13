@@ -200,6 +200,7 @@
     "invFullDate": "Invoice Date",
     "Not Cleared": "Not Cleared",
     "Pay now": "Pay now",
-    "payNowLinkIsNotFunctional": "Pay now link is not functional when using the Login as Function."
+    "payNowLinkIsNotFunctional": "Pay now link is not functional when using the Login as Function.",
+    "taxOnInsurancePremium": "Tax on Insurance Premium"
   }
 }

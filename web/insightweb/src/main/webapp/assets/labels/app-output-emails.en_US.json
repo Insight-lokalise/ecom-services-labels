@@ -652,6 +652,7 @@
     "tipEstimate": "Tax on Insurance Premium",
     "TIP": "TIP",
     "Delivery value added services": "Delivery value added services",
-    "SIGNATURE REQUIRED": "Signature Required"
+    "SIGNATURE REQUIRED": "Signature Required",
+    "pricingText": "Pricing and lead times for certain components, including, but not limited to, DRAM, NAND, DIMMs, and other constrained products, as well as any finished goods containing such components, including third-party provided services, are subject to manufacturer driven changes, government-imposed tariffs, component volatility, and other supply chain disruptions outside of Insight's control. If Insight's cost for such components, either separately or as part of finished goods or a third-party provided service, materially increases, or if supply is withdrawn or reallocated by its suppliers after the date of this quote and before shipment, Insight may re quote the affected line items. Client may accept the revised pricing, adjust configuration as proposed by Insight, or cancel the affected items. This provision regarding manufacturer-driven changes, tariffs, and component volatility takes precedence over any conflicting or inconsistent pricing or cancellation terms in any other agreement or purchase order between the parties."
   }
 }

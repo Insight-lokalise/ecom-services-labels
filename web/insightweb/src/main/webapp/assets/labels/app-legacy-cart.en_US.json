@@ -452,6 +452,10 @@
     "tipEstimate": "Tax on Insurance Premium:",
     "SIGNATURE REQUIRED": "Signature Required",
     "VASDescription": "Delivery Value Added Services (DVAS pricing estimated. For other offerings, contact your Insight representative.)",
-    "deliveryVAS": "Delivery Value Added Services"
+    "deliveryVAS": "Delivery Value Added Services",
+    "Bill my carrier": "Bill my carrier",
+    "Bill my carrier account": "Bill my carrier account",
+    "You can bill your carrier account for this purchase. Just check the": "You can bill your carrier account for this purchase. Just check the",
+    "box and select the account from the list or use the search feature to search for an account.": "box and select the account from the list or use the search feature to search for an account."
   }
 }

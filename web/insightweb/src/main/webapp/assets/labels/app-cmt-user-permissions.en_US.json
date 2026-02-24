@@ -157,6 +157,7 @@
     "customer_reserved_inventory": "Enable Customer Reserved Inventory (CRI)",
     "enable_invoice_payment": "Enable invoice payment",
     "disable_search_redirects": "Disable Search Redirects",
-    "enable_inbound_coi": "Enable Inbound COI (Customer Owned Inventory)"
+    "enable_inbound_coi": "Enable Inbound COI (Customer Owned Inventory)",
+    "InteractiveReports": "Interactive Reports"
   }
 }

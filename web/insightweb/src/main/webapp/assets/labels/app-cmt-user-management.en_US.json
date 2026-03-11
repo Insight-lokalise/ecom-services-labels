@@ -189,7 +189,7 @@
     "TEXT": "TEXT",
     "createNewUser": "Create",
     "selectAllOption": "All",
-    "defaultCarrAccLabel": "Default Carrier Account: ",
+    "defaultCarrAccLabel": "Default carrier Partner ID: ",
     "UNEQUAL_EMAILS": "The email and confirm email fields don't match",
     "permissionsLabel": "Roles and Permissions",
     "allowClientAdmin": "Allow Client Administration",

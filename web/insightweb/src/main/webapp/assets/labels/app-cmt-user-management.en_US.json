@@ -189,7 +189,7 @@
     "TEXT": "TEXT",
     "createNewUser": "Create",
     "selectAllOption": "All",
-    "defaultCarrAccLabel": "Default carrier Partner ID: ",
+    "defaultCarrAccLabel": "Default Carrier Account: ",
     "UNEQUAL_EMAILS": "The email and confirm email fields don't match",
     "permissionsLabel": "Roles and Permissions",
     "allowClientAdmin": "Allow Client Administration",
@@ -379,6 +379,7 @@
     "dutuch": "Deutsch",
     "showingResultsForState": "Results shown for State/Province ",
     "permissionFailedToLoadRequestorGroups": "Failed to load the requestor group. Please manually assign the user to a requestor group through the approval management page after applying the permissions.",
-    "pleaseSelectRequestorGroup": "Please select the requestor group."
+    "pleaseSelectRequestorGroup": "Please select the requestor group.",
+    "defaultCarrPartnerLabel": "Default carrier Partner ID: "
   }
 }

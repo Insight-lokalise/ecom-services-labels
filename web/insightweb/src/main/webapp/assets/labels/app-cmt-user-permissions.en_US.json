@@ -158,6 +158,11 @@
     "enable_invoice_payment": "Enable invoice payment",
     "disable_search_redirects": "Disable Search Redirects",
     "enable_inbound_coi": "Enable Inbound COI (Customer Owned Inventory)",
-    "InteractiveReports": "Interactive Reports"
+    "InteractiveReports": "Interactive Reports",
+    "enable_business_review": "Enable Business Review",
+    "enable_software_spend": "Enable Software Spend Report",
+    "enable_account_status_report": "Enable Account Status Report",
+    "enable_solutions_lifecycle_dashboard": "Enable Solutions Lifecycle Dashboard",
+    "enable_order_status_report": "Enable Order Status Report"
   }
 }

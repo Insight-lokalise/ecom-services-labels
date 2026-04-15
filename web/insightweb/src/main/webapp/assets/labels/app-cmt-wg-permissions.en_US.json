@@ -53,6 +53,7 @@
     "suppress_cellular_activations": "Suppress Cellular Activations",
     "enable_short_term_leasing": "Enable Short Term Leasing",
     "display_financing_offers": "Display Financing Offers Button",
-    "enable_header_menu_items": "Enable header menu items"
+    "enable_header_menu_items": "Enable header menu items",
+    "disable_header_menu_items": "Disable header menu items"
   }
 }

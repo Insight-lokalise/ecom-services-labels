@@ -192,6 +192,14 @@
     "naTerms3": "and understand that information collected will be used as described here, the",
     "naTerms4": "Notice at Collection",
     "naTerms5": ", and",
-    "naTerms6": "Insight's Privacy Policy."
+    "naTerms6": "Insight's Privacy Policy.",
+    "naClickTerms": "By ticking this checkbox I agree to receive communication from Insight for marketing purposes. I know that I can unsubscribe at any time. By clicking on the create button below, I agree to Insight’s",
+    "naTermsOfSale": "Terms of Sale,",
+    "naCloudTerms": "Cloud Terms,",
+    "naIPSTerms": "Supplemental Terms and Conditions Relating to Azure Billing,",
+    "naReturnPolicy": "Return Policy,",
+    "naWebsiteTerms": "Website Terms of use,",
+    "naAnd": "and",
+    "naPrivacyPolicy": "Privacy Policy."
   }
 }

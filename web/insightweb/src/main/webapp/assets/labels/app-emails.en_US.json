@@ -198,6 +198,7 @@
     "paymentInfo": "Payment Information",
     "splaAlerts": "SPLA Alerts",
     "entityDistrict": "",
-    "orderTrackingLink": ""
+    "orderTrackingLink": "",
+    "orderEmailSubjectCoi": "Insight Web COI Order"
   }
 }

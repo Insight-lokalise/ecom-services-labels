@@ -48,7 +48,7 @@
     "enable_hosted_licensing_dashboard_citrix": "CITRIX",
     "suppress_shared_user_fields": "Suppress Shared User Fields",
     "suppress_country_usage": "Suppress Country Of Usage",
-    "enable_learn": "Enable menu for content & resources",
+    "enable_learn": "Enable menus for content",
     "standardized_login": "Disable Username Change Ability",
     "suppress_cellular_activations": "Suppress Cellular Activations",
     "enable_short_term_leasing": "Enable Short Term Leasing",

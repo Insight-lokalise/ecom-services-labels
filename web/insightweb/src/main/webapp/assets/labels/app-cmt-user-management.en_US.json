@@ -56,7 +56,7 @@
     "userNotLinkedLabel": "User is not linked to web group",
     "b2b_user": "B2B User",
     "InsightNum": "1-800-INSIGHT (800-467-4448)\\n",
-    "accountStatus": "Account Status",
+    "accountStatus": "Enable Account Status Report",
     "linkedWebSiteNameLabel": "Web Site Name",
     "Sweden": "Sweden",
     "middleInitial": "M.I",
@@ -380,6 +380,13 @@
     "showingResultsForState": "Results shown for State/Province ",
     "permissionFailedToLoadRequestorGroups": "Failed to load the requestor group. Please manually assign the user to a requestor group through the approval management page after applying the permissions.",
     "pleaseSelectRequestorGroup": "Please select the requestor group.",
-    "defaultCarrPartnerLabel": "Default carrier Partner ID: "
+    "defaultCarrPartnerLabel": "Default carrier Partner ID: ",
+    "interactiveReports": "Interactive Reports",
+    "loading": "Loading...",
+    "failedToLoadinteractiveReports": "Failed to load interactive reports",
+    "spendingAnalysis": "Enable Software Spend Report",
+    "businessReview": "Enable Business Review",
+    "orderStatus": "Enable Order Status Report",
+    "solutionsLifecycleDashboard": "Enable Solutions Lifecycle Dashboard"
   }
 }

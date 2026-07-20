@@ -56,7 +56,7 @@
     "userNotLinkedLabel": "User is not linked to web group",
     "b2b_user": "B2B User",
     "InsightNum": "1-800-INSIGHT (800-467-4448)\\n",
-    "accountStatus": "Enable Account Status Report",
+    "accountStatus": "Account Status",
     "linkedWebSiteNameLabel": "Web Site Name",
     "Sweden": "Sweden",
     "middleInitial": "M.I",
@@ -387,6 +387,7 @@
     "spendingAnalysis": "Enable Software Spend Report",
     "businessReview": "Enable Business Review",
     "orderStatus": "Enable Order Status Report",
-    "solutionsLifecycleDashboard": "Enable Solutions Lifecycle Dashboard"
+    "solutionsLifecycleDashboard": "Enable Solutions Lifecycle Dashboard",
+    "accountStatusER": "Enable Account Status Report"
   }
 }

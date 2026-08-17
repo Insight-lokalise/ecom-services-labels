@@ -102,6 +102,10 @@
     "glossQuoUnitPrice1": "- Price quoted for a single quantity of the individual line item.",
     "delQuoDetail": "Delete this Quote",
     "contactSepcificInfo ": "",
-    "taxOnInsurancePremium": "Tax on Insurance Premium:"
+    "taxOnInsurancePremium": "Tax on Insurance Premium:",
+    "Country of usage": "Country of usage",
+    "Coverage Dates": "Coverage Dates",
+    "Deploy Date": "Deploy Date",
+    "License #": "License #"
   }
 }

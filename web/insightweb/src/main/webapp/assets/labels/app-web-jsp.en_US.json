@@ -46,6 +46,12 @@
     "coiCloseButton": "Close",
     "coiConvertingQuoteLabel": "Converting quote…",
     "coiPartialIneligibilityMessage": "The following items in your quote are not eligible for COI orders and will be removed upon conversion. Your remaining eligible items will proceed to checkout.",
-    "coiShipToAmbiguousMessage": "This quote contains items shipping to multiple locations. COI orders support only a single ship-to location to your Insight warehouse. Please reach out to your sales rep for assistance."
+    "coiShipToAmbiguousMessage": "This quote contains items shipping to multiple locations. COI orders support only a single ship-to location to your Insight warehouse. Please reach out to your sales rep for assistance.",
+    "coiContinueToCheckoutButton": "Continue to checkout",
+    "coiDescriptionColumn": "Description",
+    "coiIneligibleItemsHeading": "Ineligible items",
+    "coiInsightPartNumberColumn": "Insight Part #",
+    "coiItemsCannotBeConvertedTitle": "Items cannot be converted",
+    "coiMfrPartNumberColumn": "MFR Part #"
   }
 }

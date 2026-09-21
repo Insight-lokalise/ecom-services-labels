@@ -456,6 +456,7 @@
     "Bill my carrier": "Bill my carrier",
     "Bill my carrier account": "Bill my carrier account",
     "You can bill your carrier account for this purchase. Just check the": "You can bill your carrier account for this purchase. Just check the",
-    "box and select the account from the list or use the search feature to search for an account.": "box and select the account from the list or use the search feature to search for an account."
+    "box and select the account from the list or use the search feature to search for an account.": "box and select the account from the list or use the search feature to search for an account.",
+    "inventoryStorageNoShipment": "Inventory Storage (No Shipment)"
   }
 }

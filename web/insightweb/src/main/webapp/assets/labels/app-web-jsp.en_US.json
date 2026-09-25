@@ -52,6 +52,8 @@
     "coiIneligibleItemsHeading": "Ineligible items",
     "coiInsightPartNumberColumn": "Insight Part #",
     "coiItemsCannotBeConvertedTitle": "Items cannot be converted",
-    "coiMfrPartNumberColumn": "MFR Part #"
+    "coiMfrPartNumberColumn": "MFR Part #",
+    "coiAccessDeniedTitle": "Access Denied",
+    "coiPermissionDeniedMessage": "You do not have permission to convert this Client Owned Inventory (COI) quote to an Inbound Order. Please contact your administrator."
   }
 }

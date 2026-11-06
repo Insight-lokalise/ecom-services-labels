@@ -128,6 +128,15 @@
     "enterTaxRateExtrinsicValue": "Enter Tax Rate Extrinsic Value",
     "ewrDescription": "Enter EWR Fee Description",
     "enablePunchoutLevel2": "Enable Level 2 Punchout",
-    "punchoutType": "Punchout Type"
+    "punchoutType": "Punchout Type",
+    "smartTrackerCollectionMode": "Collection Mode:",
+    "smartTrackerCollectionModeCheckout": "Collect during Checkout:",
+    "smartTrackerCollectionModeAll": "In all flows (Prompt in both standard checkout and shipping flows)",
+    "smartTrackerCollectionModeCheckoutOnly": "Within Checkout Only (Marriott requirement — prompts in checkout without requiring shipping)",
+    "smartTrackerCollectionModeShippingOnly": "Within Add Shipping Only (Legacy default behavior)",
+    "smartTrackerExtrinsicMode": "Extrinsic Format Mode:",
+    "smartTrackerExtrinsicModeCapture": "Capture SmartTrackers in:",
+    "smartTrackerExtrinsicModeMultiple": "Multiple Extrinsics (Default legacy behavior — one extrinsic per tracker)",
+    "smartTrackerExtrinsicModeSingle": "Single Extrinsic (Marriott requirement — concatenated into single extrinsic)"
   }
 }

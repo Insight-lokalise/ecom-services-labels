@@ -132,11 +132,11 @@
     "smartTrackerCollectionMode": "Collection Mode:",
     "smartTrackerCollectionModeCheckout": "Collect during Checkout:",
     "smartTrackerCollectionModeAll": "In all flows (Prompt in both standard checkout and shipping flows)",
-    "smartTrackerCollectionModeCheckoutOnly": "Within Checkout Only (Marriott requirement — prompts in checkout without requiring shipping)",
-    "smartTrackerCollectionModeShippingOnly": "Within Add Shipping Only (Legacy default behavior)",
+    "smartTrackerCollectionModeCheckoutOnly": "Within Checkout Only (prompts in checkout without requiring shipping)",
+    "smartTrackerCollectionModeShippingOnly": "Within Add Shipping Only",
     "smartTrackerExtrinsicMode": "Extrinsic Format Mode:",
     "smartTrackerExtrinsicModeCapture": "Capture SmartTrackers in:",
-    "smartTrackerExtrinsicModeMultiple": "Multiple Extrinsics (Default legacy behavior — one extrinsic per tracker)",
-    "smartTrackerExtrinsicModeSingle": "Single Extrinsic (Marriott requirement — concatenated into single extrinsic)"
+    "smartTrackerExtrinsicModeMultiple": "Multiple Extrinsics (one extrinsic per tracker)",
+    "smartTrackerExtrinsicModeSingle": "Single Extrinsic (single extrinsic for all smart trackers)"
   }
 }
